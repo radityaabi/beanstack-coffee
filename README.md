@@ -26,7 +26,7 @@ Inspirations:
 
 - Home page
   - Hero section
-  - Products catalogue. Example: <https://benihbunbun.com>
+  - Products catalogue. Example: <https://beanstackcoffee.radityaabi.com/products>
 - Product page
   - Image URL
   - SKU (stock keeping unit)

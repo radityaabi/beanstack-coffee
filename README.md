@@ -57,7 +57,7 @@ Inspirations:
 
 ## Backend REST API Endpoints
 
-- Production: `https://beanstackcoffee.radityaabi.com`
+- Production: `https://beanstackcoffee-api.radityaabi.com`
 - Local: `http://localhost:3000`
 
 Priority:
@@ -88,6 +88,9 @@ Cart:
 | `/cart/items/{id}` | `PATCH`  | Update product quantity        | Authenticated |
 
 ## Frontend Pages
+
+- Production: `https://beanstackcoffee.radityaabi.com`
+- Local: `http://localhost:5173`
 
 Priority:
 

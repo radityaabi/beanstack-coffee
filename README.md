@@ -53,7 +53,7 @@ Inspirations:
 
 ## UI Designs
 
-- Figma: <https://www.figma.com/design/x1LomxF9N55tv0VMqg4KwK/Beanstack-Coffee?>
+- Figma: <https://www.figma.com/design/x1LomxF9N55tv0VMqg4KwK/Beanstack-Coffee?t=Fsjc2GnCvTfESuzZ-1>
 
 ## Backend REST API Endpoints
 

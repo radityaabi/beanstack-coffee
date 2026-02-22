@@ -1,21 +1,21 @@
 # Beanstack Coffee ☕
 
-[Beanstack Coffee](https://beanstack-coffee.radityaabi.com) Simple Ecommerce Platform for Specialty Coffee Beans
+[Beanstack Coffee](https://beanstackcoffee.radityaabi.com) Simple Ecommerce Platform for Specialty Coffee Beans
 
 Beanstack Coffee is a modern, lightweight ecommerce application designed to showcase and sell unique specialty coffee beans.
 This project is built as a portfolio-grade fullstack application, focusing on clean architecture, RESTful API design, and real-world ecommerce flows such as product catalog, shopping cart, checkout, and order management.
 
-Live Demo: https://beanstack-coffee.radityaabi.com
+Live Demo: https://beanstackcoffee.radityaabi.com
 
 ## Links
 
-- Website/Frontend: <https://beanstack-coffee.radityaabi.com>
-  - Backend API: <https://beanstack-coffee-api.radityaabi.com>
+- Website/Frontend: <https://beanstackcoffee.radityaabi.com>
+  - Backend API: <https://beanstackcoffee-api.radityaabi.com>
 - Repositories:
-  - General: <https://github.com/radityaabi/beanstack-coffee>
-  - Backend API: <https://github.com/radityaabi/beanstack-coffee-api>
-  - Frontend Web: <https://github.com/radityaabi/beanstack-coffee-web>
-- Project Management: <https://linear.app/beanstack-coffee>
+  - General: <https://github.com/radityaabi/beanstackcoffee>
+  - Backend API: <https://github.com/radityaabi/beanstackcoffee-api>
+  - Frontend Web: <https://github.com/radityaabi/beanstackcoffee-web>
+- Project Management: <https://linear.app/beanstackcoffee>
 
 Inspirations:
 
@@ -57,7 +57,7 @@ Inspirations:
 
 ## Backend REST API Endpoints
 
-- Production: `https://beanstack-coffee.radityaabi.com`
+- Production: `https://beanstackcoffee.radityaabi.com`
 - Local: `http://localhost:3000`
 
 Priority:

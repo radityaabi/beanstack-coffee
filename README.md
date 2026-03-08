@@ -57,7 +57,7 @@ Inspirations:
 
 ## Backend REST API Endpoints
 
-- Production: `https://beanstackcoffee.radityaabi.com`
+- Production: `https://beanstackcoffee-api.radityaabi.com`
 - Local: `http://localhost:3000`
 
 Priority:
@@ -114,9 +114,10 @@ With Auth:
 ```json
 {
   "id": "ULID123",
-  "slug": "mens-rea-blend",
-  "name": "Mens Rea Blend",
+  "slug": "mens-rea-blend-340g",
+  "name": "Mens Rea Blend 340g",
   "sku": "CF-BEANS-1",
+  "weight": 340,
   "price": 149000,
   "stockQuantity": 10,
   "imageUrl": "https://uploadcare.com/images/image.jpg",
@@ -132,9 +133,10 @@ Request Body:
 
 ```json
 {
-  "name": "Mens Rea Blend",
+  "name": "Mens Rea Blend 340g",
   "price": 149000,
   "sku": "CF-BEANS-1",
+  "weight": 340,
   "stockQuantity": 10,
   "imageUrl": "https://uploadcare.com/images/image.jpg",
   "description": "..."
@@ -146,8 +148,9 @@ Response Body:
 ```json
 {
   "id": "ULID234",
-  "slug": "mens-rea-blend",
-  "name": "Mens Rea Blend",
+  "slug": "mens-rea-blend-340g",
+  "name": "Mens Rea Blend 340g",
+  "weight": 340,
   "price": 149000,
   "sku": "CF-BEANS-1",
   "stockQuantity": 10,
